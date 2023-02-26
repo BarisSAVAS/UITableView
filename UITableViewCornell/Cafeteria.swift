@@ -33,7 +33,7 @@ class Cafeteria {
     func getRatingString() -> String {
         switch rating {
         case .terrible:
-            return "Terrible"
+            return "Terrible Tarak Kurek Falan Filan"
         case .bad:
             return"Bad"
         case .moderate:
